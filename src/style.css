@@ -213,7 +213,7 @@ main {
     left: 0;
     width: 100%;
     height: 250%;
-    background: url("https://wallpaperaccess.com/full/2890760.jpg");
+    background: url("/data/image.png");
     opacity: 0.40;
     z-index: -1;
 }
